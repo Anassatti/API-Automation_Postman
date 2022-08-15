@@ -11,6 +11,13 @@ The project for book library, which I will automate below operation using Postma
 
 Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
 
+As part of the project I did:
+
+Soap Webservices automation through Postman
+Run Postman script from Newman CLI commonds
+Run Postman automation test through Jenkins
+Generate Newman HTML execution reports from Postman script execution
+
 
 **Project Link on Postman**
 
